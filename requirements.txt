@@ -1,0 +1,11 @@
+numpy
+moviepy
+PyQt5
+imutils
+tensorflow
+ffmpeg-python
+pillow
+matplotlib
+opencv-python
+scenedetect
+dataclasses
